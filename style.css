@@ -1,9 +1,31 @@
+body{
+  background-image: url("/home/edwin/Portfolio-webpage/Images/header-illsutration-mobile.svg");
+  padding-top: 0.625%;
+  background-repeat: no-repeat;
+  height:100%;
+  width:100%;
+  background-size: 100%;
+  background-color: #e3eeeb;
+  background-position: right top;
+background-attachment: fixed;
+}
+
+img{
+  float:right;
+  margin-right: 25px;
+}
+
+
+
 .container {
   display: flex;
   max-width: 30 rem;
   max-height: 12rem;
   flex-direction: column;
   justify-content: center;
+  align-items:baseline;
+  flex-wrap: wrap;
+  align-content: stretch;
 }
 
 .box {
@@ -18,6 +40,7 @@
   order: 0;
   flex-grow: 0;
 }
+
 
 .section {
   font-family: arial, sans-serif;
@@ -38,4 +61,14 @@
   width: 50px;
   text-align: center;
   text-decoration: none;
+  justify-content: center;
 }
+
+.navbar-fixed-top {
+  width:100%;
+  position: fixed;
+  right: 0;
+  left: 0;
+  z-index: 999;
+
+  }
