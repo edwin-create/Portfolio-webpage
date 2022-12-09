@@ -35,26 +35,21 @@ REQUIRED SECTIONS:
   Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
+
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello-Microverse <a name="Hello-Microverse"></a>
+# 📖 Portfolio-webpage <a name="Portfolio-webpage"></a>
 
-> Add a header to homepage.
+> Add a headline to to the portfolio webpage.
 
-Hello-Microverse is a project that seeks to demonstrate good Github flow habits.
+Portfolio-webpage is a project that seeks to create a professional portfolio webpage for Edwin.
 
 
 
@@ -67,6 +62,7 @@ Hello-Microverse is a project that seeks to demonstrate good Github flow habits.
 ### Key Features <a name="key-features"></a>
 -Includes the project header
 -Shows good use of linters
+-Demonstrates how to parse a figma template
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -76,7 +72,7 @@ Hello-Microverse is a project that seeks to demonstrate good Github flow habits.
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-Use this project to understand GitHub flows.
+Use this project to understand GitHub flows and how to parse a figma template.
 
 To get a local copy up and running, follow these steps.
 
